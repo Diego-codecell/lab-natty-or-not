@@ -5,14 +5,10 @@ Este e-book de 5 páginas apresenta um panorama claro e didático sobre a constr
 
 🛠️ Tecnologias Utilizadas
 
-*IA Generativa ChatGPT
- para pesquisa, roteirização e estruturação do conteúdo;
-
-*Ferramenta LibreOffice / Microsoft Word para edição do texto;
-
-*Biblioteca ReportLab para conversão do material em PDF;
-
-*Imagem de capa gerada digitalmente para compor o design do e-book.
+* IA Generativa ChatGPT para pesquisa, roteirização e estruturação do conteúdo;
+* Ferramenta LibreOffice / Microsoft Word para edição do texto;
+* Biblioteca ReportLab para conversão do material em PDF;
+* Imagem de capa gerada digitalmente para compor o design do e-book.
 
 🧐 Processo de Criação
 
