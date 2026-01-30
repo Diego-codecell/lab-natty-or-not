@@ -1,3 +1,4 @@
+![Capa do e-book](./capa_piramides.png)
 ## 🏺 A Construção das Pirâmides do Egito
 
 📒 Descrição
@@ -23,7 +24,7 @@ O resultado é um e-book educativo, objetivo e visualmente organizado, ideal par
 O projeto demonstra como ferramentas digitais e IAs generativas podem auxiliar na produção de conteúdo educacional acessível e de qualidade.
 
 📘 E-book:
-LINK PARA O PDF AQUI
+[Baixar o e-book em PDF](./A_Construcao_das_Piramides_do_Egito.pdf)
 
 💭 Reflexão
 
